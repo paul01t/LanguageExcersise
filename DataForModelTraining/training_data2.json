@@ -1,0 +1,4430 @@
+[
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: hello",
+            "answer": "hei",
+            "word_pool": [
+                "hei",
+                "takk",
+                "ja",
+                "nei"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: takk",
+            "answer": "thanks",
+            "word_pool": [
+                "please",
+                "thanks",
+                "goodbye",
+                "sorry"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: yes",
+            "answer": "ja",
+            "word_pool": [
+                "nei",
+                "ja",
+                "hei",
+                "takk"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: nei",
+            "answer": "no",
+            "word_pool": [
+                "yes",
+                "no",
+                "hello",
+                "thanks"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: water",
+            "answer": "vann",
+            "word_pool": [
+                "mat",
+                "vann",
+                "snø",
+                "regn"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: hus",
+            "answer": "house",
+            "word_pool": [
+                "car",
+                "book",
+                "house",
+                "friend"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: car",
+            "answer": "bil",
+            "word_pool": [
+                "bok",
+                "bil",
+                "hus",
+                "bord"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: katt",
+            "answer": "cat",
+            "word_pool": [
+                "dog",
+                "bird",
+                "cat",
+                "fish"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: friend",
+            "answer": "venn",
+            "word_pool": [
+                "mann",
+                "venn",
+                "barn",
+                "kvinne"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: sol",
+            "answer": "sun",
+            "word_pool": [
+                "rain",
+                "wind",
+                "sun",
+                "snow"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: red",
+            "answer": "rød",
+            "word_pool": [
+                "blå",
+                "grønn",
+                "rød",
+                "gul"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: glad",
+            "answer": "happy",
+            "word_pool": [
+                "sad",
+                "tired",
+                "happy",
+                "sick"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: book",
+            "answer": "bok",
+            "word_pool": [
+                "bil",
+                "hus",
+                "bok",
+                "rom"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "man",
+                    "mann"
+                ],
+                [
+                    "woman",
+                    "kvinne"
+                ],
+                [
+                    "child",
+                    "barn"
+                ],
+                [
+                    "friend",
+                    "venn"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "big",
+                    "stor"
+                ],
+                [
+                    "small",
+                    "liten"
+                ],
+                [
+                    "good",
+                    "god"
+                ],
+                [
+                    "bad",
+                    "dårlig"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "blue",
+                    "blå"
+                ],
+                [
+                    "green",
+                    "grønn"
+                ],
+                [
+                    "yellow",
+                    "gul"
+                ],
+                [
+                    "black",
+                    "svart"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "white",
+                    "hvit"
+                ],
+                [
+                    "warm",
+                    "varm"
+                ],
+                [
+                    "cold",
+                    "kald"
+                ],
+                [
+                    "young",
+                    "ung"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "long",
+                    "lang"
+                ],
+                [
+                    "short",
+                    "kort"
+                ],
+                [
+                    "high",
+                    "høy"
+                ],
+                [
+                    "low",
+                    "lav"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "heavy",
+                    "tung"
+                ],
+                [
+                    "light",
+                    "lett"
+                ],
+                [
+                    "fast",
+                    "rask"
+                ],
+                [
+                    "slow",
+                    "sakte"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "happy",
+                    "glad"
+                ],
+                [
+                    "sad",
+                    "trist"
+                ],
+                [
+                    "hungry",
+                    "sulten"
+                ],
+                [
+                    "thirsty",
+                    "tørst"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "tired",
+                    "trett"
+                ],
+                [
+                    "sick",
+                    "syk"
+                ],
+                [
+                    "healthy",
+                    "frisk"
+                ],
+                [
+                    "old",
+                    "gammel"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "day",
+                    "dag"
+                ],
+                [
+                    "night",
+                    "natt"
+                ],
+                [
+                    "morning",
+                    "morgen"
+                ],
+                [
+                    "evening",
+                    "kveld"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "dog",
+                    "hund"
+                ],
+                [
+                    "cat",
+                    "katt"
+                ],
+                [
+                    "bird",
+                    "fugl"
+                ],
+                [
+                    "fish",
+                    "fisk"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "sun",
+                    "sol"
+                ],
+                [
+                    "rain",
+                    "regn"
+                ],
+                [
+                    "snow",
+                    "snø"
+                ],
+                [
+                    "wind",
+                    "vind"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 1,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "weather",
+                    "vær"
+                ],
+                [
+                    "sky",
+                    "himmel"
+                ],
+                [
+                    "sea",
+                    "hav"
+                ],
+                [
+                    "mountain",
+                    "fjell"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: I like food.",
+            "answer": "Jeg liker mat.",
+            "word_pool": [
+                "Jeg liker mat.",
+                "Jeg liker vann.",
+                "Jeg liker fisk.",
+                "Jeg liker en bok."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun leser en bok.",
+            "answer": "She reads a book.",
+            "word_pool": [
+                "She reads a book.",
+                "She writes a book.",
+                "She likes the book.",
+                "She finds a book."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: He drinks water.",
+            "answer": "Han drikker vann.",
+            "word_pool": [
+                "Han drikker vann.",
+                "Han spiser mat.",
+                "Han drikker litt vann.",
+                "Han finner vann."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi jobber hjemme.",
+            "answer": "We work at home.",
+            "word_pool": [
+                "We work at home.",
+                "We study at home.",
+                "We come home now.",
+                "We often work here."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: They study together.",
+            "answer": "De studerer sammen.",
+            "word_pool": [
+                "De studerer sammen.",
+                "De jobber hjemme.",
+                "De snakker sammen.",
+                "De kommer sammen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg er veldig trett.",
+            "answer": "I am very tired.",
+            "word_pool": [
+                "I am very tired.",
+                "I am a little sick.",
+                "I am very happy.",
+                "I am often tired."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Where do you live?",
+            "answer": "Hvor bor du?",
+            "word_pool": [
+                "Hvor bor du?",
+                "Hvor jobber du?",
+                "Hvor studerer du?",
+                "Hvor er du nå?"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg trenger en bil.",
+            "answer": "I need a car.",
+            "word_pool": [
+                "I need a car.",
+                "I have a car.",
+                "I find the car.",
+                "I like the car."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We eat fish today.",
+            "answer": "Vi spiser fisk i dag.",
+            "word_pool": [
+                "Vi spiser fisk i dag.",
+                "Vi spiser mat hjemme.",
+                "Vi finner fisk i dag.",
+                "Vi liker fisk veldig mye."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun skriver en bok.",
+            "answer": "She writes a book.",
+            "word_pool": [
+                "She writes a book.",
+                "She reads a book.",
+                "She finds a book.",
+                "She likes a book."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: They come here now.",
+            "answer": "De kommer her nå.",
+            "word_pool": [
+                "De kommer her nå.",
+                "De jobber her nå.",
+                "De studerer hjemme nå.",
+                "De kommer sammen i dag."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Sover du ofte?",
+            "answer": "Do you often sleep?",
+            "word_pool": [
+                "Do you often sleep?",
+                "Do you often study?",
+                "Do you sleep at home?",
+                "Do you sleep now?"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: I always see a dog.",
+            "answer": "Jeg ser alltid en hund.",
+            "word_pool": [
+                "Jeg ser alltid en hund.",
+                "Jeg finner ofte en hund.",
+                "Jeg ser en katt her.",
+                "Jeg liker en hund."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "house",
+                    "hus"
+                ],
+                [
+                    "car",
+                    "bil"
+                ],
+                [
+                    "book",
+                    "bok"
+                ],
+                [
+                    "room",
+                    "rom"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "cat",
+                    "katt"
+                ],
+                [
+                    "dog",
+                    "hund"
+                ],
+                [
+                    "bird",
+                    "fugl"
+                ],
+                [
+                    "fish",
+                    "fisk"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "food",
+                    "mat"
+                ],
+                [
+                    "water",
+                    "vann"
+                ],
+                [
+                    "family",
+                    "familie"
+                ],
+                [
+                    "friend",
+                    "venn"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "door",
+                    "dør"
+                ],
+                [
+                    "window",
+                    "vindu"
+                ],
+                [
+                    "table",
+                    "bord"
+                ],
+                [
+                    "chair",
+                    "stol"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "morning",
+                    "morgen"
+                ],
+                [
+                    "evening",
+                    "kveld"
+                ],
+                [
+                    "day",
+                    "dag"
+                ],
+                [
+                    "night",
+                    "natt"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "sun",
+                    "sol"
+                ],
+                [
+                    "rain",
+                    "regn"
+                ],
+                [
+                    "snow",
+                    "snø"
+                ],
+                [
+                    "wind",
+                    "vind"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "city",
+                    "by"
+                ],
+                [
+                    "country",
+                    "land"
+                ],
+                [
+                    "road",
+                    "vei"
+                ],
+                [
+                    "place",
+                    "sted"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "kitchen",
+                    "kjøkken"
+                ],
+                [
+                    "bathroom",
+                    "bad"
+                ],
+                [
+                    "garden",
+                    "hage"
+                ],
+                [
+                    "bed",
+                    "seng"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "come",
+                    "kommer"
+                ],
+                [
+                    "go",
+                    "går"
+                ],
+                [
+                    "see",
+                    "ser"
+                ],
+                [
+                    "know",
+                    "vet"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "like",
+                    "liker"
+                ],
+                [
+                    "need",
+                    "trenger"
+                ],
+                [
+                    "find",
+                    "finner"
+                ],
+                [
+                    "give",
+                    "gir"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "eat",
+                    "spiser"
+                ],
+                [
+                    "drink",
+                    "drikker"
+                ],
+                [
+                    "sleep",
+                    "sover"
+                ],
+                [
+                    "work",
+                    "jobber"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 2,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "read",
+                    "leser"
+                ],
+                [
+                    "write",
+                    "skriver"
+                ],
+                [
+                    "speak",
+                    "snakker"
+                ],
+                [
+                    "study",
+                    "studerer"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The cat is under the table.",
+            "answer": "Katten er under bordet.",
+            "word_pool": [
+                "Katten er under bordet.",
+                "Katten er på bordet.",
+                "Hunden er under bordet.",
+                "Katten sover ved døren."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun lager kaffe om morgenen.",
+            "answer": "She makes coffee in the morning.",
+            "word_pool": [
+                "She makes coffee in the morning.",
+                "She drinks coffee in the evening.",
+                "He makes tea in the morning.",
+                "She buys coffee after work."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We walk to the small shop.",
+            "answer": "Vi går til den lille butikken.",
+            "word_pool": [
+                "Vi går til den lille butikken.",
+                "Vi går fra den lille butikken.",
+                "De går til den store butikken.",
+                "Vi kjører til den lille byen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hunden venter ved døren.",
+            "answer": "The dog waits by the door.",
+            "word_pool": [
+                "The dog waits by the door.",
+                "The cat sleeps by the door.",
+                "The dog runs through the garden.",
+                "A friend waits at the shop."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: My brother cooks dinner tonight.",
+            "answer": "Broren min lager middag i kveld.",
+            "word_pool": [
+                "Broren min lager middag i kveld.",
+                "Søsteren min lager frokost i dag.",
+                "Broren min spiser middag nå.",
+                "Vennen min lager mat hjemme."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: De spiller fotball etter skolen.",
+            "answer": "They play football after school.",
+            "word_pool": [
+                "They play football after school.",
+                "They watch football after school.",
+                "We play football before school.",
+                "They walk home after school."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: I forgot my blue umbrella.",
+            "answer": "Jeg glemte den blå paraplyen.",
+            "word_pool": [
+                "Jeg glemte den blå paraplyen.",
+                "Jeg fant den blå jakken.",
+                "Hun tok med den røde paraplyen.",
+                "Jeg mistet den svarte vesken."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Barna tegner dyr på papir.",
+            "answer": "The children draw animals on paper.",
+            "word_pool": [
+                "The children draw animals on paper.",
+                "The children read books at home.",
+                "The students paint a picture outside.",
+                "The boys feed the birds."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The bus arrives in ten minutes.",
+            "answer": "Bussen kommer om ti minutter.",
+            "word_pool": [
+                "Bussen kommer om ti minutter.",
+                "Bilen kommer om fem minutter.",
+                "Toget går om ti minutter.",
+                "Bussen stopper ved skolen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "apple",
+                    "eple"
+                ],
+                [
+                    "banana",
+                    "banan"
+                ],
+                [
+                    "orange",
+                    "appelsin"
+                ],
+                [
+                    "pear",
+                    "pære"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "kitchen",
+                    "kjøkken"
+                ],
+                [
+                    "bedroom",
+                    "soverom"
+                ],
+                [
+                    "bathroom",
+                    "bad"
+                ],
+                [
+                    "garden",
+                    "hage"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "jacket",
+                    "jakke"
+                ],
+                [
+                    "shoes",
+                    "sko"
+                ],
+                [
+                    "hat",
+                    "lue"
+                ],
+                [
+                    "shirt",
+                    "skjorte"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "bread",
+                    "brød"
+                ],
+                [
+                    "cheese",
+                    "ost"
+                ],
+                [
+                    "milk",
+                    "melk"
+                ],
+                [
+                    "egg",
+                    "egg"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "train",
+                    "tog"
+                ],
+                [
+                    "bus",
+                    "buss"
+                ],
+                [
+                    "bicycle",
+                    "sykkel"
+                ],
+                [
+                    "boat",
+                    "båt"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "hand",
+                    "hånd"
+                ],
+                [
+                    "foot",
+                    "fot"
+                ],
+                [
+                    "eye",
+                    "øye"
+                ],
+                [
+                    "ear",
+                    "øre"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "key",
+                    "nøkkel"
+                ],
+                [
+                    "lamp",
+                    "lampe"
+                ],
+                [
+                    "cup",
+                    "kopp"
+                ],
+                [
+                    "plate",
+                    "tallerken"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "cloud",
+                    "sky"
+                ],
+                [
+                    "snow",
+                    "snø"
+                ],
+                [
+                    "rain",
+                    "regn"
+                ],
+                [
+                    "wind",
+                    "vind"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi går til ___ etter skolen.",
+            "answer": "butikken",
+            "hint": "shop"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Det ligger en ___ på bordet.",
+            "answer": "bok",
+            "hint": "book"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han vasker hendene før ___.",
+            "answer": "middag",
+            "hint": "dinner"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Om morgenen drikker hun ___.",
+            "answer": "kaffe",
+            "hint": "coffee"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Barna bygger en ___ i hagen.",
+            "answer": "snømann",
+            "hint": "snowman"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg finner ikke mine ___.",
+            "answer": "nøkler",
+            "hint": "keys"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Far kjøper ferskt ___ på bakeriet.",
+            "answer": "brød",
+            "hint": "bread"
+        }
+    },
+    {
+        "input": {
+            "level": 3,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi sitter ute når solen ___.",
+            "answer": "skinner",
+            "hint": "shines"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The children are playing in the garden.",
+            "answer": "Barna leker i hagen.",
+            "word_pool": [
+                "Barna leker i hagen.",
+                "Barna arbeider i hagen.",
+                "Hundene leker i huset.",
+                "Barna spiser ute i dag."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg tar bussen til sentrum hver dag.",
+            "answer": "I take the bus downtown daily.",
+            "word_pool": [
+                "I take the bus downtown daily.",
+                "I walk downtown every morning.",
+                "She takes the train downtown each day.",
+                "I take the bus home after work."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Please close the window before you leave.",
+            "answer": "Lukk vinduet før du går.",
+            "word_pool": [
+                "Lukk vinduet før du går.",
+                "Åpne døren før du kommer.",
+                "Lukk døren når du går.",
+                "Vask vinduet før du drar."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Han kjøper ferske grønnsaker på markedet.",
+            "answer": "He buys fresh vegetables at the market.",
+            "word_pool": [
+                "He buys fresh vegetables at the market.",
+                "She sells fresh fruit at the market.",
+                "He buys fresh bread at the bakery.",
+                "They find fresh vegetables outside."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Our neighbors have a friendly dog.",
+            "answer": "Naboene våre har en vennlig hund.",
+            "word_pool": [
+                "Naboene våre har en vennlig hund.",
+                "Vennene våre har en liten katt.",
+                "Naboene har en stor svart bil.",
+                "Familien vår har en snill hund."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi besøker bestemor på søndag ettermiddag.",
+            "answer": "We visit grandmother on Sunday afternoon.",
+            "word_pool": [
+                "We visit grandmother on Sunday afternoon.",
+                "We call grandfather on Sunday morning.",
+                "They visit their friends on Saturday.",
+                "We meet grandmother after lunch."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: She is looking for her red scarf.",
+            "answer": "Hun leter etter det røde skjerfet sitt.",
+            "word_pool": [
+                "Hun leter etter det røde skjerfet sitt.",
+                "Hun fant den blå jakken sin.",
+                "Han leter etter nøklene sine.",
+                "Hun tar på seg den røde hatten."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Det regner, så vi blir inne i kveld.",
+            "answer": "It's raining, so we stay in tonight.",
+            "word_pool": [
+                "It's raining, so we stay in tonight.",
+                "It is sunny, so we eat outside.",
+                "It snowed, so they stayed home yesterday.",
+                "It is cold, so we leave early."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The little café serves soup and fresh bread.",
+            "answer": "Kafeen serverer suppe og ferskt brød.",
+            "word_pool": [
+                "Kafeen serverer suppe og ferskt brød.",
+                "Restauranten lager fisk og poteter.",
+                "Kafeen selger kaffe og søte kaker.",
+                "Butikken har ferskt brød."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "breakfast",
+                    "frokost"
+                ],
+                [
+                    "lunch",
+                    "lunsj"
+                ],
+                [
+                    "dinner",
+                    "middag"
+                ],
+                [
+                    "dessert",
+                    "dessert"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "doctor",
+                    "lege"
+                ],
+                [
+                    "nurse",
+                    "sykepleier"
+                ],
+                [
+                    "teacher",
+                    "lærer"
+                ],
+                [
+                    "driver",
+                    "sjåfør"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "coat",
+                    "frakk"
+                ],
+                [
+                    "scarf",
+                    "skjerf"
+                ],
+                [
+                    "gloves",
+                    "hansker"
+                ],
+                [
+                    "socks",
+                    "sokker"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "market",
+                    "marked"
+                ],
+                [
+                    "bakery",
+                    "bakeri"
+                ],
+                [
+                    "library",
+                    "bibliotek"
+                ],
+                [
+                    "station",
+                    "stasjon"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "borrow",
+                    "låne"
+                ],
+                [
+                    "buy",
+                    "kjøpe"
+                ],
+                [
+                    "sell",
+                    "selge"
+                ],
+                [
+                    "pay",
+                    "betale"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "early",
+                    "tidlig"
+                ],
+                [
+                    "late",
+                    "sent"
+                ],
+                [
+                    "quiet",
+                    "stille"
+                ],
+                [
+                    "busy",
+                    "travel"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "neighbor",
+                    "nabo"
+                ],
+                [
+                    "grandmother",
+                    "bestemor"
+                ],
+                [
+                    "grandfather",
+                    "bestefar"
+                ],
+                [
+                    "cousin",
+                    "fetter"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "raincoat",
+                    "regnjakke"
+                ],
+                [
+                    "umbrella",
+                    "paraply"
+                ],
+                [
+                    "boots",
+                    "støvler"
+                ],
+                [
+                    "glasses",
+                    "briller"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun ___ middag til hele familien.",
+            "answer": "lager",
+            "hint": "makes"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Bussen stopper rett ___ skolen.",
+            "answer": "utenfor",
+            "hint": "outside"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi må kjøpe melk og ___.",
+            "answer": "brød",
+            "hint": "bread"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Bestefar leser avisen etter ___.",
+            "answer": "frokost",
+            "hint": "breakfast"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Naboene våre flytter til en ny ___.",
+            "answer": "leilighet",
+            "hint": "apartment"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han tar på seg en varm ___.",
+            "answer": "frakk",
+            "hint": "coat"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Butikken åpner klokken åtte hver ___.",
+            "answer": "morgen",
+            "hint": "morning"
+        }
+    },
+    {
+        "input": {
+            "level": 4,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De finner ikke nøklene til ___.",
+            "answer": "bilen",
+            "hint": "the car"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: My sister usually walks to work.",
+            "answer": "Søsteren min går vanligvis til jobben.",
+            "word_pool": [
+                "Søsteren min går vanligvis til jobben.",
+                "Broren min kjører ofte til skolen.",
+                "Søsteren min sykler hjem etter jobb.",
+                "Vennen min går til butikken hver dag."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi lager middag sammen hjemme.",
+            "answer": "We cook dinner together at home.",
+            "word_pool": [
+                "We cook dinner together at home.",
+                "We eat lunch together after work.",
+                "They cook dinner when the children sleep.",
+                "We make breakfast together on Sundays."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The bakery sells warm bread every morning.",
+            "answer": "Bakeriet selger varmt brød hver morgen.",
+            "word_pool": [
+                "Bakeriet selger varmt brød hver morgen.",
+                "Butikken kjøper ferskt brød om kvelden.",
+                "Kafeen serverer varm suppe hver dag.",
+                "Bakeriet baker søte kaker på søndag."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun glemte paraplyen, men det regnet ikke.",
+            "answer": "She forgot the umbrella; it stayed dry.",
+            "word_pool": [
+                "She forgot the umbrella; it stayed dry.",
+                "He lost his coat because it was windy.",
+                "She took an umbrella when rain started.",
+                "They forgot their keys but found them later."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We can meet outside the library after lunch.",
+            "answer": "Vi kan møtes utenfor biblioteket etter lunsj.",
+            "word_pool": [
+                "Vi kan møtes utenfor biblioteket etter lunsj.",
+                "Vi kan spise middag hjemme etter skolen.",
+                "De møtes ved stasjonen før frokost.",
+                "Vi går til biblioteket sammen i morgen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Barna hjelper til med å dekke bordet.",
+            "answer": "The children help set the table.",
+            "word_pool": [
+                "The children help set the table.",
+                "The parents clean the kitchen after dinner.",
+                "The children help their teacher at school.",
+                "The family sits around the table."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: He checks the weather before his morning run.",
+            "answer": "Han sjekker været før løpeturen om morgenen.",
+            "word_pool": [
+                "Han sjekker været før løpeturen om morgenen.",
+                "Han ser på klokken før han går ut.",
+                "Hun sjekker bussen før hun drar på jobb.",
+                "Han løper i skogen etter frokost."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg sender deg melding når toget kommer.",
+            "answer": "I'll message you when the train arrives.",
+            "word_pool": [
+                "I'll message you when the train arrives.",
+                "I call my sister when the bus is late.",
+                "She sends a letter after the train leaves.",
+                "I wait for a message at the station."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The new neighbors invited us for coffee.",
+            "answer": "De nye naboene inviterte oss på kaffe.",
+            "word_pool": [
+                "De nye naboene inviterte oss på kaffe.",
+                "De gamle vennene møtte oss på kafé.",
+                "Naboene våre kom på middag i går.",
+                "Den nye læreren inviterte barna inn."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "receipt",
+                    "kvittering"
+                ],
+                [
+                    "wallet",
+                    "lommebok"
+                ],
+                [
+                    "cash",
+                    "kontanter"
+                ],
+                [
+                    "change",
+                    "veksel"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "appointment",
+                    "timeavtale"
+                ],
+                [
+                    "headache",
+                    "hodepine"
+                ],
+                [
+                    "medicine",
+                    "medisin"
+                ],
+                [
+                    "pharmacy",
+                    "apotek"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "cloudy",
+                    "overskyet"
+                ],
+                [
+                    "sunny",
+                    "solfylt"
+                ],
+                [
+                    "windy",
+                    "vindfull"
+                ],
+                [
+                    "rainy",
+                    "regnfull"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "suitcase",
+                    "koffert"
+                ],
+                [
+                    "ticket",
+                    "billett"
+                ],
+                [
+                    "platform",
+                    "plattform"
+                ],
+                [
+                    "passenger",
+                    "passasjer"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "choose",
+                    "velge"
+                ],
+                [
+                    "remember",
+                    "huske"
+                ],
+                [
+                    "forget",
+                    "glemme"
+                ],
+                [
+                    "decide",
+                    "bestemme"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "soup",
+                    "suppe"
+                ],
+                [
+                    "salad",
+                    "salat"
+                ],
+                [
+                    "potato",
+                    "potet"
+                ],
+                [
+                    "carrot",
+                    "gulrot"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "message",
+                    "melding"
+                ],
+                [
+                    "address",
+                    "adresse"
+                ],
+                [
+                    "envelope",
+                    "konvolutt"
+                ],
+                [
+                    "stamp",
+                    "frimerke"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "matching"
+        },
+        "output": {
+            "pairs": [
+                [
+                    "stairs",
+                    "trapp"
+                ],
+                [
+                    "elevator",
+                    "heis"
+                ],
+                [
+                    "floor",
+                    "etasje"
+                ],
+                [
+                    "entrance",
+                    "inngang"
+                ]
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun legger kvitteringen i ___.",
+            "answer": "lommeboken",
+            "hint": "the wallet"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi må gå nå for å rekke ___.",
+            "answer": "bussen",
+            "hint": "the bus"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Det var ___, så han tok jakken.",
+            "answer": "kaldt",
+            "hint": "cold"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Barna hjelper til med å ___ bordet.",
+            "answer": "dekke",
+            "hint": "set"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg kjøper grønnsaker på det lokale ___.",
+            "answer": "markedet",
+            "hint": "the market"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Toget går fra spor fire om ___.",
+            "answer": "morgenen",
+            "hint": "the morning"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun ringer apoteket for å hente ___.",
+            "answer": "medisinen",
+            "hint": "the medicine"
+        }
+    },
+    {
+        "input": {
+            "level": 5,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De inviterte naboene på kaffe og ___.",
+            "answer": "kake",
+            "hint": "cake"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The family moved to a quieter neighborhood last spring.",
+            "answer": "Familien flyttet til et roligere nabolag i fjor vår.",
+            "word_pool": [
+                "Familien flyttet til et roligere nabolag i fjor vår.",
+                "Familien besøkte et roligere område i sommer.",
+                "Naboene flyttet til byen forrige høst.",
+                "Familien fant et større hus nær sentrum."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg pleier å handle mat på vei hjem fra jobb.",
+            "answer": "I usually buy groceries on my way home from work.",
+            "word_pool": [
+                "I usually buy groceries on my way home from work.",
+                "I often cook dinner before I leave for work.",
+                "We buy food together after the children arrive.",
+                "She shops for groceries every Saturday morning."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Please leave your wet shoes by the entrance.",
+            "answer": "Vennligst sett de våte skoene ved inngangen.",
+            "word_pool": [
+                "Vennligst sett de våte skoene ved inngangen.",
+                "Husk å ta med tørre sko til skolen.",
+                "Sett de svarte støvlene utenfor kjøkkenet.",
+                "Vennligst legg den våte jakken på stolen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Etter møtet gikk kollegene sammen til en liten kafé.",
+            "answer": "After the meeting, the colleagues walked together to a small café.",
+            "word_pool": [
+                "After the meeting, the colleagues walked together to a small café.",
+                "Before work, the neighbors went to a large market.",
+                "After lunch, the students took a bus downtown.",
+                "The coworkers met at a café before the meeting."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: My uncle repairs bicycles in his garage on weekends.",
+            "answer": "Onkelen min reparerer sykler i garasjen sin i helgene.",
+            "word_pool": [
+                "Onkelen min reparerer sykler i garasjen sin i helgene.",
+                "Faren min vasker bilen utenfor huset hver søndag.",
+                "Naboen reparerer gamle møbler etter jobb.",
+                "Onkelen min sykler til garasjen hver morgen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi tok med ekstra tepper fordi kvelden ble kjølig.",
+            "answer": "We brought extra blankets because the evening became chilly.",
+            "word_pool": [
+                "We brought extra blankets because the evening became chilly.",
+                "They packed warm coats before the weather changed.",
+                "We opened the windows because the room was warm.",
+                "She bought a blanket for the new baby."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The children collected colorful leaves during their walk home.",
+            "answer": "Barna samlet fargerike blader på vei hjem.",
+            "word_pool": [
+                "Barna samlet fargerike blader på vei hjem.",
+                "Barna fant små steiner langs veien til skolen.",
+                "Familien plukket blomster i hagen om våren.",
+                "Elevene tegnet fargerike blader etter turen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun lånte en spennende roman av naboen sin.",
+            "answer": "She borrowed an exciting novel from her neighbor.",
+            "word_pool": [
+                "She borrowed an exciting novel from her neighbor.",
+                "He bought a new cookbook for his sister.",
+                "She returned the book to the library yesterday.",
+                "They found an interesting magazine in the kitchen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We checked the opening hours before driving to the museum.",
+            "answer": "Vi sjekket åpningstidene før vi kjørte til museet.",
+            "word_pool": [
+                "Vi sjekket åpningstidene før vi kjørte til museet.",
+                "Vi bestilte billetter før museet stengte for dagen.",
+                "De fant åpningstidene på biblioteket i går.",
+                "Vi kjørte til sentrum etter at butikken åpnet."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Faren min lager ofte mat mens barna gjør leksene sine.",
+            "answer": "My father often cooks while the children do their homework.",
+            "word_pool": [
+                "My father often cooks while the children do their homework.",
+                "My mother reads while the children play in the garden.",
+                "Their father cleans the kitchen after the children eat.",
+                "We cook together after finishing our homework."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: A friendly waiter brought us water while we chose our meals.",
+            "answer": "En hyggelig servitør ga oss vann mens vi valgte maten.",
+            "word_pool": [
+                "En hyggelig servitør ga oss vann mens vi valgte maten.",
+                "En vennlig nabo viste oss veien til restauranten.",
+                "Servitøren hentet menyene etter at vi bestilte kaffe.",
+                "Vi valgte maten før servitøren kom med vann."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Bussen var forsinket, så jeg ventet inne på stasjonen.",
+            "answer": "The bus was delayed, so I waited inside the station.",
+            "word_pool": [
+                "The bus was delayed, so I waited inside the station.",
+                "The train arrived early, so we hurried to the platform.",
+                "I missed the bus and walked home in the rain.",
+                "The station was closed, so they waited outside."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: She keeps a small notebook beside her bed for new ideas.",
+            "answer": "Hun har en liten notatbok ved sengen for nye ideer.",
+            "word_pool": [
+                "Hun har en liten notatbok ved sengen for nye ideer.",
+                "Hun legger telefonen på bordet før hun går ut.",
+                "Han skriver handlelisten sin på kjøkkenet hver morgen.",
+                "Hun leser en ny bok før hun sovner."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han setter alltid sykkelen sin ___ garasjen.",
+            "answer": "i",
+            "hint": "in"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi tok med mat og vann til den lange ___.",
+            "answer": "turen",
+            "hint": "the trip"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Naboen vår passer katten mens vi er på ___.",
+            "answer": "ferie",
+            "hint": "vacation"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun bruker en kalender for å huske alle ___.",
+            "answer": "avtalene",
+            "hint": "the appointments"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De fant en rolig plass ved elven for å spise ___.",
+            "answer": "lunsj",
+            "hint": "lunch"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg henger den våte jakken på en krok i ___.",
+            "answer": "gangen",
+            "hint": "the hallway"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Etter frokost pakket familien bilen og kjørte mot ___.",
+            "answer": "fjellene",
+            "hint": "the mountains"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han sparer kvitteringene i en skuff på ___.",
+            "answer": "kontoret",
+            "hint": "the office"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi må kjøpe batterier før fjernkontrollen slutter å ___.",
+            "answer": "virke",
+            "hint": "work"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Barna fikk velge hvilken film de skulle ___.",
+            "answer": "se",
+            "hint": "watch"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun tok med en ekstra genser fordi det kunne bli ___.",
+            "answer": "kaldt",
+            "hint": "cold"
+        }
+    },
+    {
+        "input": {
+            "level": 6,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De besøker besteforeldrene sine nesten hver ___.",
+            "answer": "helg",
+            "hint": "weekend"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The local library hosts a free reading group every Thursday.",
+            "answer": "Det lokale biblioteket arrangerer en gratis lesegruppe hver torsdag.",
+            "word_pool": [
+                "Det lokale biblioteket arrangerer en gratis lesegruppe hver torsdag.",
+                "Kulturhuset viser en ny film hver fredag kveld.",
+                "Biblioteket stenger tidligere på torsdager i sommer.",
+                "Den lokale skolen har en lesetime hver morgen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi fant en fin sti gjennom skogen til innsjøen.",
+            "answer": "We found a nice forest path to the lake.",
+            "word_pool": [
+                "We found a nice forest path to the lake.",
+                "They followed a narrow road to the beach.",
+                "I found a quiet place near the river.",
+                "We walked through the forest before the rain."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Could you save me a seat near the window?",
+            "answer": "Kan du holde av en plass til meg ved vinduet?",
+            "word_pool": [
+                "Kan du holde av en plass til meg ved vinduet?",
+                "Kan du åpne døren for den nye gjesten?",
+                "Vi fant et ledig bord ved vinduet.",
+                "Hun reserverte en billett til toget i morgen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Læreren forklarte oppgaven en gang til før elevene begynte.",
+            "answer": "The teacher explained the task once more before the students began.",
+            "word_pool": [
+                "The teacher explained the task once more before the students began.",
+                "The guide showed the room before the visitors arrived.",
+                "The teacher collected the books after the class ended.",
+                "We read the instructions before starting the game."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: My cousin is learning to bake bread without using a recipe.",
+            "answer": "Fetteren min lærer å bake brød uten å bruke en oppskrift.",
+            "word_pool": [
+                "Fetteren min lærer å bake brød uten å bruke en oppskrift.",
+                "Søsteren min liker å lage kaker etter en gammel oppskrift.",
+                "Kusinen min lærer å lage suppe fra bunnen av.",
+                "Vennen min baker brød hver søndag morgen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Etter regnet luktet hagen friskt av jord og blomster.",
+            "answer": "After the rain, the garden smelled of soil and flowers.",
+            "word_pool": [
+                "After the rain, the garden smelled of soil and flowers.",
+                "The flowers smelled sweet after the warm day.",
+                "Our garden was full of fresh herbs.",
+                "The wet soil smelled strong near the old tree."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We left the porch light on so our guests could find the house.",
+            "answer": "Vi lot lyset på verandaen stå på så gjestene fant huset.",
+            "word_pool": [
+                "Vi lot lyset på verandaen stå på så gjestene fant huset.",
+                "Vi satte et skilt ved veien så gjestene fant butikken.",
+                "Hun slo av lyset før hun forlot huset.",
+                "Vi ventet ved inngangen til gjestene kom."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun valgte den billigste billetten fordi reisen var ganske kort.",
+            "answer": "She chose the cheapest ticket because the journey was quite short.",
+            "word_pool": [
+                "She chose the cheapest ticket because the journey was quite short.",
+                "He bought a more expensive ticket for the night train.",
+                "They chose the fastest route because the trip was long.",
+                "She found a cheap room near the station."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The café stays open late when the summer evenings are warm.",
+            "answer": "Kafeen holder åpent sent når sommerkveldene er varme.",
+            "word_pool": [
+                "Kafeen holder åpent sent når sommerkveldene er varme.",
+                "Butikken stenger tidlig når vintermorgenene er kalde.",
+                "Restauranten serverer frokost hele sommeren.",
+                "Kafeen åpner senere på søndager om vinteren."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg skrev ned adressen til taxisjåføren.",
+            "answer": "I wrote down the address for the taxi driver.",
+            "word_pool": [
+                "I wrote down the address for the taxi driver.",
+                "She saved the phone number before calling a taxi.",
+                "We gave the driver directions to the station.",
+                "He wrote the hotel name on a card."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Their dog waits patiently beside the gate every afternoon.",
+            "answer": "Hunden deres venter tålmodig ved porten hver ettermiddag.",
+            "word_pool": [
+                "Hunden deres venter tålmodig ved porten hver ettermiddag.",
+                "Katten deres sover rolig ved vinduet hele dagen.",
+                "Hunden venter ved døren når barna kommer hjem.",
+                "Naboens hund løper gjennom hagen om morgenen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Butikken tilbyr rabatt på frukt og grønnsaker hver tirsdag.",
+            "answer": "The shop offers a discount on fruit and vegetables every Tuesday.",
+            "word_pool": [
+                "The shop offers a discount on fruit and vegetables every Tuesday.",
+                "The market sells fresh bread and cheese on Saturdays.",
+                "The store closes early every Tuesday afternoon.",
+                "They buy fruit and vegetables from a local farmer."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: I usually carry a reusable bag in case I stop at the market.",
+            "answer": "Jeg har vanligvis med en gjenbrukspose hvis jeg stopper ved markedet.",
+            "word_pool": [
+                "Jeg har vanligvis med en gjenbrukspose hvis jeg stopper ved markedet.",
+                "Hun tar alltid med en paraply når hun går til jobb.",
+                "Jeg kjøper en handlepose før jeg går inn i butikken.",
+                "Vi besøker markedet etter at vi har spist lunsj."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vennene våre bestemte seg for å møtes ___ biblioteket.",
+            "answer": "utenfor",
+            "hint": "outside"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun la ferske urter i suppen for å gi den mer ___.",
+            "answer": "smak",
+            "hint": "flavor"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi tok en omvei fordi hovedveien var ___.",
+            "answer": "stengt",
+            "hint": "closed"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han skrev handlelisten på en lapp og festet den på ___.",
+            "answer": "kjøleskapet",
+            "hint": "the refrigerator"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Barna måtte dele paraply fordi den andre ble ___.",
+            "answer": "borte",
+            "hint": "missing"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg sjekker alltid værmeldingen før jeg planlegger en ___.",
+            "answer": "utflukt",
+            "hint": "trip"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Servitøren anbefalte dagens suppe, som var laget med ___.",
+            "answer": "grønnsaker",
+            "hint": "vegetables"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun satte alarmen litt tidligere for ikke å ___ toget.",
+            "answer": "forsove",
+            "hint": "oversleep for"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De åpnet vinduene fordi rommet var blitt for ___.",
+            "answer": "varmt",
+            "hint": "warm"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Etter turen tørket vi støvlene nær ___.",
+            "answer": "ovnen",
+            "hint": "the stove"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han sendte en melding da han kom trygt ___ på hotellet.",
+            "answer": "fram",
+            "hint": "to the hotel"
+        }
+    },
+    {
+        "input": {
+            "level": 7,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi valgte et bord i skyggen, siden solen var ganske ___.",
+            "answer": "sterk",
+            "hint": "strong"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The town has added more benches along the riverside walking path.",
+            "answer": "Kommunen har satt ut flere benker langs turstien ved elven.",
+            "word_pool": [
+                "Kommunen har satt ut flere benker langs turstien ved elven.",
+                "Byen har plantet flere trær langs veien til skolen.",
+                "De har bygget en ny bro over elven i år.",
+                "Kommunen fjernet benkene før vinteren kom."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Han begynte å sykle til jobben etter at den nye sykkelstien åpnet.",
+            "answer": "He started cycling to work after the new bike path opened.",
+            "word_pool": [
+                "He started cycling to work after the new bike path opened.",
+                "She began walking to school when the bus route changed.",
+                "They rode their bikes to the beach last summer.",
+                "He stopped cycling because the road was closed."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Please let the receptionist know if your room needs fresh towels.",
+            "answer": "Gi beskjed til resepsjonisten hvis rommet ditt trenger rene håndklær.",
+            "word_pool": [
+                "Gi beskjed til resepsjonisten hvis rommet ditt trenger rene håndklær.",
+                "Spør servitøren om kjøkkenet har varme supper.",
+                "Ring hotellet hvis du trenger en taxi i morgen.",
+                "La resepsjonen vite når du forlater rommet."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: På lørdager baker naboen rundstykker til familien.",
+            "answer": "On Saturdays, the neighbor shares fresh rolls with family.",
+            "word_pool": [
+                "On Saturdays, the neighbor shares fresh rolls with family.",
+                "Every Sunday, our family makes soup for neighbors.",
+                "The baker sells warm rolls before the shop opens.",
+                "She brings bread to her parents after work."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The children planted sunflower seeds beside the fence in early May.",
+            "answer": "Barna plantet solsikkefrø ved gjerdet tidlig i mai.",
+            "word_pool": [
+                "Barna plantet solsikkefrø ved gjerdet tidlig i mai.",
+                "Barna plukket markblomster langs gjerdet i juni.",
+                "Familien sådde gulrøtter i hagen før regnet kom.",
+                "De plantet et epletre bak huset i fjor."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi tok med regntøy fordi det var meldt byger.",
+            "answer": "We brought rain gear because showers were forecast.",
+            "word_pool": [
+                "We brought rain gear because showers were forecast.",
+                "They packed warm clothes because snow was expected.",
+                "I carried an umbrella in case it rained.",
+                "We stayed inside because the storm arrived early."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: She kept the receipt in her bag in case she needed to return the shoes.",
+            "answer": "Hun oppbevarte kvitteringen i vesken hvis hun måtte levere skoene tilbake.",
+            "word_pool": [
+                "Hun oppbevarte kvitteringen i vesken hvis hun måtte levere skoene tilbake.",
+                "Hun la billetten i lommen før hun gikk om bord.",
+                "Han tok vare på kvitteringen etter å ha kjøpt støvlene.",
+                "Hun returnerte skoene fordi størrelsen var feil."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Kokken spurte om noen hadde matallergier før hun serverte desserten.",
+            "answer": "The cook asked whether anyone had food allergies before serving dessert.",
+            "word_pool": [
+                "The cook asked whether anyone had food allergies before serving dessert.",
+                "The waiter listed the ingredients before bringing the soup.",
+                "She asked the guests if they wanted more coffee.",
+                "The chef prepared a special meal for the children."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Our guide showed us a shortcut through the old part of town.",
+            "answer": "Guiden vår viste oss en snarvei gjennom den gamle bydelen.",
+            "word_pool": [
+                "Guiden vår viste oss en snarvei gjennom den gamle bydelen.",
+                "Sjåføren tok oss med til det nye kjøpesenteret.",
+                "Vennen vår fant en rolig vei langs elven.",
+                "Guiden fortalte om husene i den gamle landsbyen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg la igjen en beskjed på jobben; hun hadde gått hjem.",
+            "answer": "I left her a note at work; she had gone home.",
+            "word_pool": [
+                "I left her a note at work; she had gone home.",
+                "She sent a message before leaving the office.",
+                "He forgot his keys when he went home.",
+                "I waited at work until my friend arrived."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The swimming pool is less crowded just after it opens in the morning.",
+            "answer": "Svømmehallen er mindre full like etter at den åpner om morgenen.",
+            "word_pool": [
+                "Svømmehallen er mindre full like etter at den åpner om morgenen.",
+                "Stranden er mest populær når været blir varmt.",
+                "Treningssenteret stenger tidligere på søndager.",
+                "Det er mange barn i bassenget etter skolen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: De byttet plass så bestefaren kunne sitte ved døren.",
+            "answer": "They changed seats so Grandfather could sit by the door.",
+            "word_pool": [
+                "They changed seats so Grandfather could sit by the door.",
+                "We moved the table because it was near the window.",
+                "She offered her seat to a tired passenger.",
+                "The grandparents sat together at the front."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: I save a little each month for a weekend trip with friends.",
+            "answer": "Jeg sparer litt hver måned til en helgetur med venner.",
+            "word_pool": [
+                "Jeg sparer litt hver måned til en helgetur med venner.",
+                "Vi sparer penger til en ny sofa i stuen.",
+                "Hun bruker feriepengene på en reise i sommer.",
+                "De planlegger en lang ferie neste år."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hvis du kommer før meg, kan du vente ___ inngangen.",
+            "answer": "ved",
+            "hint": "by"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun valgte en mindre størrelse fordi jakken satt for ___.",
+            "answer": "løst",
+            "hint": "loosely"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi må huske å slå av lyset før vi går ___.",
+            "answer": "ut",
+            "hint": "out"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han satte sykkelen under tak så den ikke skulle bli ___.",
+            "answer": "våt",
+            "hint": "wet"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Etter frokost gikk familien en rolig tur langs ___.",
+            "answer": "stranden",
+            "hint": "the beach"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De fylte vannflaskene før de dro ut på den lange ___.",
+            "answer": "vandringen",
+            "hint": "the hike"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg sendte adressen til vennene mine så de kunne finne ___.",
+            "answer": "fram",
+            "hint": "their way"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun sparte restene til lunsj i stedet for å kaste ___.",
+            "answer": "dem",
+            "hint": "them"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi brukte kartet for å finne den nærmeste ___.",
+            "answer": "bussholdeplassen",
+            "hint": "the bus stop"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Faren min skiftet lyspæren mens jeg holdt ___.",
+            "answer": "stigen",
+            "hint": "the ladder"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Kafeen hadde fullt uteområde, men noen ledige bord ___.",
+            "answer": "inne",
+            "hint": "inside"
+        }
+    },
+    {
+        "input": {
+            "level": 8,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han ba om regningen etter at alle var ferdige med ___.",
+            "answer": "maten",
+            "hint": "the food"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The community center offers evening classes for people who want to learn Norwegian.",
+            "answer": "Kulturhuset tilbyr kveldskurs for folk som ønsker å lære norsk.",
+            "word_pool": [
+                "Kulturhuset tilbyr kveldskurs for folk som ønsker å lære norsk.",
+                "Biblioteket arrangerer språkkafeer for nye innbyggere hver uke.",
+                "Skolen tilbyr gratis trening etter arbeidstid.",
+                "Norskkurset begynner om morgenen på mandag."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun fant en sykkelrute som unngikk hovedveien.",
+            "answer": "She found a cycling route that avoided the main road.",
+            "word_pool": [
+                "She found a cycling route that avoided the main road.",
+                "They followed a quiet path beside the river.",
+                "He chose the fastest route through town.",
+                "We took the main road to the village."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We moved the picnic indoors when the wind began to blow across the field.",
+            "answer": "Vi flyttet pikniken inn da vinden begynte å blåse over jordet.",
+            "word_pool": [
+                "Vi flyttet pikniken inn da vinden begynte å blåse over jordet.",
+                "Vi avsluttet turen da regnet begynte å falle over byen.",
+                "De fant ly under et tre da vinden økte.",
+                "Vi satte opp teltet før kvelden ble kald."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Eieren så at kassen manglet veksel før åpning.",
+            "answer": "The owner noticed the cash register lacked change before opening.",
+            "word_pool": [
+                "The owner noticed the cash register lacked change before opening.",
+                "The cashier counted the money after closing time.",
+                "The shop opened before the first customers arrived.",
+                "The store was missing several boxes of fruit."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Her parents asked the neighbors to water the plants while they were away.",
+            "answer": "Foreldrene hennes ba naboene vanne plantene mens de var borte.",
+            "word_pool": [
+                "Foreldrene hennes ba naboene vanne plantene mens de var borte.",
+                "Naboene spurte foreldrene hennes om å passe hunden.",
+                "Familien vannet blomstene før de dro på ferie.",
+                "Hun ba vennene sine hente posten mens hun jobbet."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Jeg tok en tidligere buss for å rekke avtalen hos tannlegen.",
+            "answer": "I took an earlier bus to make my dentist appointment.",
+            "word_pool": [
+                "I took an earlier bus to make my dentist appointment.",
+                "She caught the last train after her meeting ended.",
+                "We left early to meet our friends at the station.",
+                "He took a taxi to arrive before the doctor left."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The waiter brought the child a separate plate without milk.",
+            "answer": "Servitøren ga barnet en egen tallerken uten melk.",
+            "word_pool": [
+                "Servitøren ga barnet en egen tallerken uten melk.",
+                "Kokken laget en mild suppe uten løk.",
+                "Servitøren spurte om noen ønsket dessert.",
+                "Barnet valgte en salat i stedet for suppe."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: De ryddet kjøkkenet før gjestene kom tilbake.",
+            "answer": "They cleaned the kitchen before their guests returned.",
+            "word_pool": [
+                "They cleaned the kitchen before their guests returned.",
+                "We set the table before our neighbors arrived.",
+                "The children tidied their room after school.",
+                "They cooked together after their friends left."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: A short note on the door explained why the shop had closed early.",
+            "answer": "En kort beskjed på døren forklarte hvorfor butikken hadde stengt tidlig.",
+            "word_pool": [
+                "En kort beskjed på døren forklarte hvorfor butikken hadde stengt tidlig.",
+                "Et skilt ved inngangen viste hvor kundene skulle vente.",
+                "En melding på telefonen sa at toget var forsinket.",
+                "Butikken stengte senere fordi mange kunder ventet utenfor."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Venninnen min foreslo en liten restaurant fra området.",
+            "answer": "My friend suggested a small local restaurant.",
+            "word_pool": [
+                "My friend suggested a small local restaurant.",
+                "My sister found a café with homemade cakes.",
+                "Our neighbor recommended a market with local vegetables.",
+                "The guide chose a restaurant by the harbor."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: They compared bus schedules before the concert.",
+            "answer": "De sammenlignet busstidene før konserten.",
+            "word_pool": [
+                "De sammenlignet busstidene før konserten.",
+                "De sjekket værmeldingen før de dro.",
+                "Vi fant et møtested nær stasjonen.",
+                "Hun undersøkte togrutene før hun bestilte."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Da regnet stoppet, tok vi stien til utsiktspunktet ved gården.",
+            "answer": "After the rain, we took the path to the farm lookout.",
+            "word_pool": [
+                "After the rain, we took the path to the farm lookout.",
+                "After the snow, they drove to the village.",
+                "We followed the road down to the beach.",
+                "When the wind eased, the children went outside."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: She packed a light lunch for their walk through several villages.",
+            "answer": "Hun pakket en lett lunsj til turen gjennom landsbyene.",
+            "word_pool": [
+                "Hun pakket en lett lunsj til turen gjennom landsbyene.",
+                "Han tok med ekstra vann til den lange turen.",
+                "Vi kjøpte lunsj etter at vi kom fram.",
+                "Hun valgte en kort rute langs elven."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi reserverte bord på restauranten for å slippe å ___ utenfor.",
+            "answer": "vente",
+            "hint": "wait"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun pakket med ekstra sokker siden turen kunne bli ___.",
+            "answer": "våt",
+            "hint": "wet"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De spurte resepsjonisten om det fantes et ledig rom med ___.",
+            "answer": "balkong",
+            "hint": "a balcony"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg la merke til at bussen gikk fra en annen ___.",
+            "answer": "plattform",
+            "hint": "platform"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Familien gikk hjem langs elven i stedet for å ta ___.",
+            "answer": "bussen",
+            "hint": "the bus"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han skrev ned navnet på medisinen før han dro til ___.",
+            "answer": "apoteket",
+            "hint": "the pharmacy"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi flyttet møtet til fredag fordi flere kolleger var ___.",
+            "answer": "opptatt",
+            "hint": "busy"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun la igjen nøkkelen hos naboen i tilfelle vi kom ___.",
+            "answer": "sent",
+            "hint": "late"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Før vi bestilte maten, spurte hun om ingrediensene var ___.",
+            "answer": "ferske",
+            "hint": "fresh"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De åpnet et vindu for å slippe inn litt ___.",
+            "answer": "luft",
+            "hint": "air"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Sjåføren ventet til alle passasjerene hadde funnet en ___.",
+            "answer": "plass",
+            "hint": "seat"
+        }
+    },
+    {
+        "input": {
+            "level": 9,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg tok et bilde av skiltet så jeg kunne huske ___.",
+            "answer": "adressen",
+            "hint": "the address"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The volunteers prepared warm drinks for visitors waiting outside the sports hall.",
+            "answer": "Frivillige laget varme drikker til besøkende som ventet utenfor idrettshallen.",
+            "word_pool": [
+                "Frivillige laget varme drikker til besøkende som ventet utenfor idrettshallen.",
+                "Trenerne delte ut vann til barna etter kampen.",
+                "Besøkende kjøpte varm mat i kafeen ved stasjonen.",
+                "Foreldrene ventet inne mens frivillige ryddet hallen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi tok en sidevei gjennom dalen etter uværet.",
+            "answer": "We took a side road through the valley after the storm.",
+            "word_pool": [
+                "We took a side road through the valley after the storm.",
+                "They followed a narrow path to the lake.",
+                "We drove downtown before the rain began.",
+                "The main road reopened later that evening."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: Could you remind me to return the books before the library closes?",
+            "answer": "Kan du minne meg på å levere bøkene før biblioteket stenger?",
+            "word_pool": [
+                "Kan du minne meg på å levere bøkene før biblioteket stenger?",
+                "Husk å hente billettene før toget går.",
+                "Hun leverte bøkene etter at biblioteket åpnet.",
+                "Kan du hjelpe meg med å finne bokhandelen?"
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Kokken endret oppskriften for gjester som ikke spiste kjøtt.",
+            "answer": "The cook changed the recipe for guests who avoid meat.",
+            "word_pool": [
+                "The cook changed the recipe for guests who avoid meat.",
+                "The waiter changed the table because the room was crowded.",
+                "She chose a vegetarian meal before the restaurant filled.",
+                "The guests asked whether the soup contained milk."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: After the neighborhood meeting, several residents offered to share their garden tools.",
+            "answer": "Etter møtet i nabolaget tilbød flere beboere å dele hageredskapene sine.",
+            "word_pool": [
+                "Etter møtet i nabolaget tilbød flere beboere å dele hageredskapene sine.",
+                "Etter dugnaden plantet naboene blomster langs veien.",
+                "Flere foreldre hjalp til med å male det gamle skuret.",
+                "Beboerne møttes for å planlegge en ny lekeplass."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Hun sammenlignet prisene på nettet før hun kjøpte en ny vaskemaskin.",
+            "answer": "She compared the prices online before buying a new washing machine.",
+            "word_pool": [
+                "She compared the prices online before buying a new washing machine.",
+                "He checked the store hours before ordering a new refrigerator.",
+                "They compared bus fares before planning their trip.",
+                "She bought a secondhand washing machine from her neighbor."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: We left early to park near the entrance.",
+            "answer": "Vi dro tidlig for å parkere nær inngangen.",
+            "word_pool": [
+                "Vi dro tidlig for å parkere nær inngangen.",
+                "De kom sent fordi bussen stoppet langt unna.",
+                "Vi møttes på parkeringsplassen før toget gikk.",
+                "Hun gikk hjem mens vi ventet ved inngangen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Vi fant riktig avkjørsel og kom fram før mørket.",
+            "answer": "We found the right exit and arrived before dark.",
+            "word_pool": [
+                "We found the right exit and arrived before dark.",
+                "We missed the turn and reached town after sunset.",
+                "It was easy to find the road before rain.",
+                "They arrived early because the highway was quiet."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The school sent families a message about the change to tomorrow’s schedule.",
+            "answer": "Skolen sendte familiene en melding om endringen i morgendagens timeplan.",
+            "word_pool": [
+                "Skolen sendte familiene en melding om endringen i morgendagens timeplan.",
+                "Læreren fortalte elevene at turen var flyttet til fredag.",
+                "Foreldrene fikk en e-post om møtet etter skoletid.",
+                "Skolen endret åpningstidene på grunn av snøen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Naboene samlet inn klær til hjelpesenteret i sentrum.",
+            "answer": "The neighbors collected clothes for the aid center downtown.",
+            "word_pool": [
+                "The neighbors collected clothes for the aid center downtown.",
+                "The volunteers sorted food before taking it to shelter.",
+                "They donated toys to the school near the station.",
+                "The family brought blankets to their new neighbors."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: I wrote down the bus driver’s directions to the stop.",
+            "answer": "Jeg skrev ned bussjåførens veibeskrivelse til holdeplassen.",
+            "word_pool": [
+                "Jeg skrev ned bussjåførens veibeskrivelse til holdeplassen.",
+                "Hun ba taxisjåføren vente mens hun hentet kofferten.",
+                "Vi fant holdeplassen ved hjelp av et kart.",
+                "Sjåføren forklarte hvorfor bussen var forsinket."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "nb_to_en"
+        },
+        "output": {
+            "question": "Translate to English: Etter stengetid gikk de på kafeen for å varme seg.",
+            "answer": "After closing, they went to the café to warm up.",
+            "word_pool": [
+                "After closing, they went to the café to warm up.",
+                "Before the café opened, they waited outside.",
+                "They stopped at the store to buy warm clothes.",
+                "When the rain stopped, we walked home."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "translation",
+            "direction": "en_to_nb"
+        },
+        "output": {
+            "question": "Translate to Norwegian: The hotel held our bags while we explored town.",
+            "answer": "Hotellet oppbevarte bagasjen vår mens vi utforsket byen.",
+            "word_pool": [
+                "Hotellet oppbevarte bagasjen vår mens vi utforsket byen.",
+                "Vi la koffertene i bilen før vi dro.",
+                "Resepsjonisten viste oss rommet etter lunsj.",
+                "De gikk til sentrum før de hentet bagasjen."
+            ]
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun tok med en ekstra ladekabel i tilfelle telefonen gikk ___.",
+            "answer": "tom",
+            "hint": "flat"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi valgte en restaurant som hadde flere retter uten ___.",
+            "answer": "gluten",
+            "hint": "gluten"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han ba om et vindussete da han bestilte flybilletten på ___.",
+            "answer": "nettet",
+            "hint": "online"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De satte et skilt som viste gjestene hvor de skulle ___.",
+            "answer": "parkere",
+            "hint": "park"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Jeg undersøkte åpningstidene før jeg dro til kommunens ___.",
+            "answer": "kontor",
+            "hint": "office"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Etter den lange reisen trengte vi et sted å hvile og ___.",
+            "answer": "dusje",
+            "hint": "shower"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Hun leverte pakken på postkontoret før det stengte for ___.",
+            "answer": "dagen",
+            "hint": "the day"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Vi tok med mat hjemmefra for å spare penger på ___.",
+            "answer": "reisen",
+            "hint": "the trip"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Treneren ba laget møte tidligere for å gå gjennom ___.",
+            "answer": "planen",
+            "hint": "the plan"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Han la de skitne klærne i en egen pose før hjemreisen ___.",
+            "answer": "begynte",
+            "hint": "began"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "Familien ventet i bilen mens regnet roet ___.",
+            "answer": "seg",
+            "hint": "down"
+        }
+    },
+    {
+        "input": {
+            "level": 10,
+            "language": "norwegian_bokmal",
+            "exercise_type": "fill_in_blank"
+        },
+        "output": {
+            "sentence_with_blank": "De valgte et hotell nær stasjonen for å gjøre transporten ___.",
+            "answer": "enklere",
+            "hint": "easier"
+        }
+    }
+]
